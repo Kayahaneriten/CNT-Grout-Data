@@ -2,4 +2,4 @@
 
 ## Data Availability Statement
 
-The dataset supporting the conclusions of this article is available in this repository.
+The raw datasets related to the rheological performance analysis are available in this repository, while additional supporting data are available from the corresponding author upon reasonable request.
